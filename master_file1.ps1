@@ -1,1 +1,1 @@
-write-output "file1"
+write-output "file2"
