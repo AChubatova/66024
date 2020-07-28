@@ -1,1 +1,1 @@
-write-ouput "develop2_change1"
+write-output "develop2_change2"
