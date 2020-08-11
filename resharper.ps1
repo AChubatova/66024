@@ -1,1 +1,1 @@
-write-output "topic/resharper"
+write-output "topic/resharper22"
